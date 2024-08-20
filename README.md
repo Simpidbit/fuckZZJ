@@ -18,7 +18,7 @@
 
 或者从github下载：https://github.com/Simpidbit/fuckZZJ/releases/tag/fuckzzj
 
-下载后解压，得到`fuckzzj`文件夹。
+下载后解压，得到`fuckzzj_x64`或者`fuckzzj_x86`文件夹（下面统一称为`fuckzzj`文件夹）。
 
 
 
@@ -36,5 +36,19 @@
 
 ## Step4. 完成
 
-至此，您的zzj制裁机器人已经开始运行，不要关闭`Lagrange.OneBot.exe`的那个黑乎乎的窗口，也不要关闭Step 2中的那个黑乎乎的窗口，zzj制裁机器人就会一直运行，zzj每一次发言都会受到制裁。
+至此，您的zzj制裁机器人已经开始运行，不要关闭`Lagrange.OneBot.exe`的那个黑乎乎的窗口，也不要关闭Step 2中的那个黑乎乎的窗口，zzj制裁机器人就会一直运行，zzj每一次发言都会受到制裁。机器人运行期间您也可以在手机上和机器人用同一个号，互不影响
 
+
+
+## 补充说明
+
+- 此项目依赖[Lagrange.OneBot](https://lagrangedev.github.io/Lagrange.Doc/Lagrange.OneBot/)
+
+- 为了防止 zzj 修改源码中的目标QQ号，原本的.py文件经过编译成为.pyc文件，.pyc文件不是可以直接编辑的代码文件，可以避免 zzj 修改代码中的QQ号祸害他人。如果需要原本的.py文件，请QQ联系我或者提issue
+
+- 这是第一个版本，由于内置了一个python，因此文件体积较大，我在考虑用C++代替python，C++可以直接编译出可执行文件，安全性更高，且不需要下载多余的工具，单一个.exe文件，点开即用，体积更小，但写出来可能需要一些时间，在C++版本推出之前的迭代都是python实现，文件结构不会有太大变动，更新时只需用最新的.pyc文件替换老的.pyc文件即可
+- 如果希望其他含zzj的群或者zzj有其他QQ号，请联系我或者提issue
+
+  目前已经对zzj实施制裁的群：642710446
+
+  目前已经制裁的zzj QQ号：3197769695
