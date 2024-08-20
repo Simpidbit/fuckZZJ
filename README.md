@@ -11,6 +11,8 @@
 从百度网盘下载：https://pan.baidu.com/s/1_TklGhW4iH5HkcQiNvfxJA?pwd=zzj4 
 提取码：zzj4
 
+或者从github下载：https://github.com/Simpidbit/fuckZZJ/releases/download/fuckzzj/fuckzzj.zip
+
 下载后解压，得到`fuckzzj`文件夹。
 
 
