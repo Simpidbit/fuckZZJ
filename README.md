@@ -8,10 +8,15 @@
 
 ## Step1. 下载`fuckzzj.zip`
 
-从百度网盘下载：https://pan.baidu.com/s/1_TklGhW4iH5HkcQiNvfxJA?pwd=zzj4 
+根据您的系统类型，选择下载 fuckzzj_x64.zip （64位）或者 fuckzzj_x86.zip （32位）。
+如果您不知道您的系统是64位还是32位，请按 win+R 打开运行窗口，输入cmd并回车，在cmd中输入 systeminfo | grep "System Type" 稍等片刻，就会显示出您的系统是64位（x64-based PC）还是32位（x86-based PC）
+
+
+
+从百度网盘下载：https://pan.baidu.com/s/1e-BBdN2_ZUiTo-47gW4Wqg?pwd=zzj4 
 提取码：zzj4
 
-或者从github下载：https://github.com/Simpidbit/fuckZZJ/releases/download/fuckzzj/fuckzzj.zip
+或者从github下载：https://github.com/Simpidbit/fuckZZJ/releases/tag/fuckzzj
 
 下载后解压，得到`fuckzzj`文件夹。
 
